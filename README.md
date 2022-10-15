@@ -1,17 +1,22 @@
-# Nome do meu projeto
+# Busca CNPJ
 
-Rápida descrição do objetivo de fazer esse projeto
+Descubra dados relacionados a um CNPJ
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :sparkles: Nome        | **Busca CNPJ**
+| :label: Tecnologias | python, django, html, css, api
+| :rocket: URL         | [pedro.pythonanywhere.com/cnpj](pedro.pythonanywhere.com/cnpj)
+| :fire: Desafio     | -
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+
+![image](https://user-images.githubusercontent.com/40746318/195986306-1ccebfcf-aa41-4ac9-99e8-0381d95efc00.png#vitrinedev)
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+Esse projeto é uma aplicação WEB que consome os dados de uma API pública da Receita Federal para consulta de CNPJ, nele eu coloquei em prática o Framework Django do Python.
+
+## Acesse e consulte um CNPJ ##
+
+[Buscar CNPJ](pedro.pythonanywhere.com/cnpj)
