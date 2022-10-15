@@ -11,7 +11,7 @@ Descubra dados relacionados a um CNPJ
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 
-![image](https://user-images.githubusercontent.com/40746318/195986306-1ccebfcf-aa41-4ac9-99e8-0381d95efc00.png?text=image#vitrinedev)
+![](https://user-images.githubusercontent.com/40746318/195986306-1ccebfcf-aa41-4ac9-99e8-0381d95efc00.png?text=image#vitrinedev)
 
 ## Detalhes do projeto
 
