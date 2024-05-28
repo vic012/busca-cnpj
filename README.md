@@ -19,4 +19,4 @@ Esse projeto é uma aplicação WEB que consome os dados de uma API pública da 
 
 ## Acesse e consulte um CNPJ ##
 
-[Buscar CNPJ](pedro.pythonanywhere.com/cnpj)
+[Buscar CNPJ](https://pedro.pythonanywhere.com/cnpj)
